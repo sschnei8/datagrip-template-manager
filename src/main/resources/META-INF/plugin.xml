@@ -1,7 +1,7 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>com.github.sschnei8.datagriptemplatemanager</id>
-    <name>Datagrip Template Manager</name>
+    <name>Live Template Manager</name>
     <vendor>sschnei8</vendor>
     <version>0.0.1</version>
 

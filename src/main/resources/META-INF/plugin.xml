@@ -1,10 +1,12 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>com.github.sschnei8.datagriptemplatemanager</id>
-    <name>datagrip-template-manager</name>
+    <name>Datagrip Template Manager</name>
     <vendor>sschnei8</vendor>
+    <version>0.0.1</version>
 
     <depends>com.intellij.modules.platform</depends>
+    <depends>com.intellij.database</depends>
 
     <resource-bundle>messages.MyBundle</resource-bundle>
 
